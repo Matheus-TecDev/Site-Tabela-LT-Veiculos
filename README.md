@@ -13,7 +13,7 @@ O projeto foi padronizado em conformidade com o banco de dados real da empresa, 
 
 👉 [Acessar agora na Vercel](https://site-tabela-lt-veiculos.vercel.app/)
 
-[Deploy na Vercel](https://site-tabela-lt-veiculos.vercel.app/)
+[![Deploy na Vercel](https://vercel.com/button)](https://site-tabela-lt-veiculos.vercel.app/)
 
 ---
 
@@ -93,7 +93,9 @@ Sugestões de melhorias são **muito bem-vindas**!
 
 ## 👨‍💻 Autores
 
-- [Matheus TecDev](https://github.com/Matheus-TecDev)  
-📫 Contato: [matheus.tecnodev@gmail.com](mailto:matheus.tecnodev@gmail.com)  
+- [Matheus Freire](https://github.com/Matheus-TecDev)  
+- [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/) 
+ 
+📫 Contato: matheus.tecnodev@gmail.com  
 
-🤝 Projeto desenvolvido em parceria com a empresa DTI como amostra para **LT Veículos**.  
+🤝 Projeto desenvolvido em parceria com a empresa DTI como amostra para **LT Veículos**.
