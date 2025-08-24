@@ -9,7 +9,7 @@ const Home = () => {
   const [error, setError] = useState(null);
   const [animate, setAnimate] = useState(false);
 
-  const apiUrl = "https://backend-serven.onrender.com";
+  const apiUrl = "https://backend-lti.onrender.com";
 
   useEffect(() => {
     fetch(`${apiUrl}/aquisicoes`)

@@ -1,9 +1,9 @@
-import Logo from "../components/Logo_Seven.png";
+import Logo from "../components/Logo_LT.png";
 import "./Header.css";
 
 const Header = () => (
     <header className="header-container">
-        <img src={Logo} alt="Logo DTI" className="header-logo" />
+        <img src={Logo} alt="Logo LT" className="header-logo" />
     </header>
 );
 
