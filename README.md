@@ -89,7 +89,7 @@ Sugestões de melhorias são **muito bem-vindas**!
 
 ---
 
-## 📌 Roadmap (versões futuras)
+## 📌 Roadmap
 
 - 📱 Melhorar responsividade para dispositivos móveis.  
 - 📊 Criar novas telas de visualização de dados.  
