@@ -20,6 +20,7 @@ O projeto foi padronizado em conformidade com o banco de dados real da empresa, 
 ## 🔗 Repositórios Relacionados
 
 - [Frontend (este repositório)](https://github.com/Matheus-TecDev/Site-Tabela-LT-Veiculos.git)
+- [Frontend (Aplicativo em Expo)](https://github.com/Matheus-TecDev/App-Tabela7-Frontend.git)
 - [Backend (API)](https://github.com/Matheus-TecDev/LT-Veiculos-Backend.git)
 
 ---
@@ -89,7 +90,7 @@ Sugestões de melhorias são **muito bem-vindas**!
 
 ---
 
-## 📌 Roadmap
+## 📌 Roadmap (versões futuras)
 
 - 📱 Melhorar responsividade para dispositivos móveis.  
 - 📊 Criar novas telas de visualização de dados.  
