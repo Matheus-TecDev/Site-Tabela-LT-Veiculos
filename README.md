@@ -1,4 +1,4 @@
-## 🗃️ Tabela Veículos LT 
+# 🗃️ Tabela Veículos LT 
 
 ## 📖 Descrição
 
@@ -14,6 +14,13 @@ O projeto foi padronizado em conformidade com o banco de dados real da empresa, 
 👉 [Acessar agora na Vercel](https://site-tabela-lt-veiculos.vercel.app/)
 
 [![Deploy na Vercel](https://vercel.com/button)](https://site-tabela-lt-veiculos.vercel.app/)
+
+---
+
+## 🔗 Repositórios Relacionados
+
+- [Frontend (este repositório)](https://github.com/Matheus-TecDev/Site-Tabela-LT-Veiculos.git)
+- [Backend (API)](https://github.com/Matheus-TecDev/LT-Veiculos-Backend.git)
 
 ---
 
@@ -96,6 +103,6 @@ Sugestões de melhorias são **muito bem-vindas**!
 - [Matheus Freire](https://github.com/Matheus-TecDev)  
 - [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/) 
  
-📫 Contato: matheus.tecnodev@gmail.com  
+📫 Contato: [matheus.tecnodev@gmail.com](mailto:matheus.tecnodev@gmail.com)  
 
 🤝 Projeto desenvolvido em parceria com a empresa DTI como amostra para **LT Veículos**.  
